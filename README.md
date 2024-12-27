@@ -7,7 +7,8 @@ The dataset was supplied with the ExcelR Data Analytics Course. This data was de
 
 The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status.
 
-file:///C:/Users/SWARESH/Downloads/Screenshot%202024-11-25%20202334.png
+![Screenshot 2024-11-25 202334](https://github.com/user-attachments/assets/1a9d841d-46d4-4531-b7e9-df7dfa2234d5)
+
 
 
 ## Features
